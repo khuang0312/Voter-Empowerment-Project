@@ -1,0 +1,12 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all ZIP files
+*.zip
+
+# Ignore all TAR files
+*.tar.gz
+
+# Ignore all GZIP files
+*.gz
+
